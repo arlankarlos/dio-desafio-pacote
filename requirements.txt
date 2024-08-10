@@ -1,0 +1,2 @@
+setuptools~=72.1.0
+phonenumbers~=8.13.43
